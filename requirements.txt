@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+plotly
+data_fetcher
+torch
+matplotlib
+ipykernel
